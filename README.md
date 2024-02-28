@@ -41,17 +41,3 @@ Key Questions and SQL Queries:
 <img width="468" alt="image" src="https://github.com/LuizGuilhermeLima/SQL-Airbnb-data-analysis/assets/105224925/3cc6733f-29a5-4668-8cde-ee698fdf511c">
 
 Conclusion: This project aims to provide valuable insights into the Airbnb dataset, aiding hosts, guests, and Airbnb itself in making informed decisions and improvements. Through SQL queries, we analyze various aspects of Airbnb listings, availability, pricing, and geographical distribution, enabling stakeholders to optimize their operations and experiences within the Airbnb ecosystem.
-
-
-
-
-
-
-
-
-
-
- 
-
-Conclusion: This project aims to provide valuable insights into the Airbnb dataset, aiding hosts, guests, and Airbnb itself in making informed decisions and improvements. Through SQL queries, we analyze various aspects of Airbnb listings, availability, pricing, and geographical distribution, enabling stakeholders to optimize their operations and experiences within the Airbnb ecosystem.
-![image](https://github.com/LuizGuilhermeLima/SQL-Airbnb-data-analysis/assets/105224925/86f9774d-e82e-4da0-924a-86110a9a5b39)
